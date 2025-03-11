@@ -1,5 +1,4 @@
 # Caso practico Excel
-Estas son una serie de actividades de casos practicos donde se ponen a prueba distintas fuciones del software Excel.
 Esta es la entrega del Caso Practico Excel para el diplomado de analisis y visualizacion de datos para concluir con el modulo de Excel.
 
 ## Contexto
