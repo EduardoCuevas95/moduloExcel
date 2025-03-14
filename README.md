@@ -19,6 +19,10 @@ Se creó un **dashboard en Excel** que incluye los siguientes elementos:
 
 - **Dos gráficos:**  
   - Un gráfico de líneas para visualizar la tendencia de ingresos por mes de enero a junio de 2023.  
+  - Un gráfico de barras para visualizar el número de transacciones por categoría.  
+
+- **Slicer para la visualización dinámica:**  
+  - Se agregó un **slicer** que permite filtrar y analizar los datos por sucursal de manera interactiva.  
 
 Tras analizar estos elementos visuales, se identificaron los siguientes puntos clave:  
 
@@ -39,3 +43,8 @@ Tras analizar estos elementos visuales, se identificaron los siguientes puntos c
 ### 3. Producto con mayores ingresos  
 - **Aunque el Brewed Chai Tea y el Gourmet Brewed Coffee son los productos con mayor número de transacciones, el producto que más ingresos genera es el Barista Espresso, con un total de $91,406.20 en el período analizado.**  
 - **Recomendación:** Aplicar un **leve incremento en el precio** (algunos centavos) en los productos con mayor volumen de ventas, lo que permitiría aumentar los ingresos sin afectar significativamente la demanda.  
+
+### 4. Uso del slicer para análisis dinámico  
+- Se incorporó un **slicer** en el dashboard para **permitir la segmentación de datos por sucursal**, facilitando el análisis de desempeño individual de cada ubicación.  
+- Esta herramienta permite a los propietarios y gerentes visualizar rápidamente los ingresos, las transacciones y el desempeño de productos en cada sucursal sin necesidad de aplicar filtros manualmente.  
+- **Recomendación:** Continuar utilizando el slicer para identificar tendencias específicas en cada sucursal y tomar decisiones estratégicas basadas en datos en tiempo real.  
